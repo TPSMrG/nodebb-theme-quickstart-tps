@@ -1,6 +1,6 @@
 {
-    "id": "nodebb-theme-quickstart",
-    "name": "My Theme Name",
-    "description": "Enter a description here",
-    "url": "https://github.com/nodebb/nodebb-theme-quickstart"
+    "id": "nodebb-theme-tps-persona",
+    "name": "Persona for TPS",
+    "description": "Persona customizations for TPS",
+    "url": "https://github.com/TPSMrG/nodebb-theme-tps-persona"
 }

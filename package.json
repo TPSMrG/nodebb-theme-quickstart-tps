@@ -29,5 +29,17 @@
         "eslint-plugin-import": "2.x",
         "husky": "5.0.9",
         "lint-staged": "10.5.4"
+    },
+    "author": {
+        "name": "Jeff Gilbert",
+        "email": "TPSMrG@gmail.com",
+        "url": "https://at-tps.org"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/TPSMrG/nodebb-theme-quickstart-tps"
+    },
+    "bugs": {
+        "url": "https://github.com/TPSMrG/nodebb-theme-quickstart-tps/issues"
     }
 }
